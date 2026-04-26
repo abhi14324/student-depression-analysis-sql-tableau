@@ -36,7 +36,7 @@ This project answers key mental health questions such as:
 ## 📊 Dashboard Screenshot
 
 ### Student Depression Analysis Dashboard
-![student-depression-analysis-sql-tableau](screenshots/student_depression_analysis.png)
+![Student Depression Analysis](screenshots/student_depression_analysis.png)
 
 ---
 
