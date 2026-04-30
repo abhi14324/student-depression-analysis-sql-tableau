@@ -20,6 +20,13 @@ The project combines:
 
 ---
 
+## ❓Problem Statement
+
+Student mental health has become a critical concern across educational institutions worldwide. A large number of students suffer from depression due to multiple contributing factors such as high academic pressure, financial stress, poor sleep habits, unhealthy dietary patterns, lack of study satisfaction, and family history of mental illness. However, these factors are rarely studied together in a structured and visual format that can help educators, counselors, and institutions take informed action.
+This project aims to analyze and visualize the key lifestyle and academic factors associated with student depression using SQL Server for data cleaning and transformation, and Tableau for interactive dashboard development. By exploring patterns across sleep duration, study hours, academic pressure, financial stress, and study satisfaction, this project seeks to provide clear and actionable insights into the behavioral indicators of student depression — helping institutions identify at-risk student groups and design better mental health support systems.
+
+---
+
 ## 🎯 Project Objectives
 
 This project answers key mental health questions such as:
